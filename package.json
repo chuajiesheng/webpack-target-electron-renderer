@@ -28,7 +28,7 @@
     "electron-renderer"
   ],
   "dependencies": {
-    "webpack": "^1.12.14"
+    "webpack": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.2",
